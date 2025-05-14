@@ -11,16 +11,16 @@
         <sys_created_by>bill_wei</sys_created_by>
         <sys_created_on>2023-06-30 14:04:52</sys_created_on>
         <sys_id>d38fe934877fed105d60da083cbb35a2</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>x_rhtpp_eda.webhook_url</sys_name>
         <sys_package display_value="Event-Driven Ansible Notification Service" source="x_rhtpp_eda">cb4182e69767611049b0b9dfe153af15</sys_package>
         <sys_policy/>
         <sys_scope display_value="Event-Driven Ansible Notification Service">cb4182e69767611049b0b9dfe153af15</sys_scope>
         <sys_update_name>sys_properties_d38fe934877fed105d60da083cbb35a2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-10 07:20:38</sys_updated_on>
+        <sys_updated_on>2025-05-14 14:00:32</sys_updated_on>
         <type>string</type>
-        <value>https://aap.eco-ace-test.ace-rhecoeng.com:8088</value>
+        <value/>
         <write_roles>x_rhtpp_eda.admin</write_roles>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=d38fe934877fed105d60da083cbb35a2"/>
